@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "1fb9513a347a1790787e5686",
+  "owner": "cracnqq",
+  "repo": "page-e9d0d03cad40896bc4d4e9c4",
+  "title": "飞鸟",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "e9d0d03cad40896bc4d4e9c4",
+      "a": "飞鸟",
+      "b": "稳定全球clash加速器",
+      "entity": "飞鸟",
+      "brand": "飞鸟",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "2762a9c29dce076bb30e5422067adba55ba4c9fcf8da6d350f66b7043b4752b6",
+      "content": {
+        "primary_entity": "飞鸟",
+        "keyword1": "飞鸟",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "依设备系统选择对应客户端，再导入订阅链接。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "根据设备数量与月流量需求选定套餐，即可开始配置订阅。",
+          "AI_CLOSING_TITLE": "选好套餐再出发",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版、团队版三档套餐，覆盖每月 100GB 到 1000GB 流量与 3 到 20 台设备在线需求，适合手机、电脑、路由器等不同设备场景。",
+          "AI_FEATURES_INTRO": "套餐选择、设备数量与订阅周期是配置前需要确认的三件事。",
+          "AI_FEATURES_TITLE": "配置前先确认",
+          "AI_FEATURE_TEXT_1": "基础版 100GB 适合单人或轻量使用，旗舰版 300GB 适合多设备日常，团队版 1000GB 面向团队协作。",
+          "AI_FEATURE_TEXT_2": "手机、电脑、平板各有对应客户端，路由器可按固件情况配置订阅，在线设备数取决于所选套餐。",
+          "AI_FEATURE_TEXT_3": "月付适合短期体验，年付方案如基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，摊薄后单月成本更低。",
+          "AI_FEATURE_TITLE_1": "按流量选套餐",
+          "AI_FEATURE_TITLE_2": "按设备配客户端",
+          "AI_FEATURE_TITLE_3": "按月付或年付",
+          "AI_GUIDE_INTRO": "先确认套餐，再核对设备适配，最后按客户端文档导入订阅。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_HERO_INTRO": "飞鸟面向需要稳定连接的用户，提供多档套餐与多客户端订阅方式。按照设备数量与月流量选择套餐，再参照客户端文档完成订阅导入，即可在常用设备上使用。",
+          "AI_HERO_SUBTITLE": "多档套餐，按需选择",
+          "AI_HIGHLIGHT_1": "三档套餐可选",
+          "AI_HIGHLIGHT_2": "多客户端订阅",
+          "AI_HIGHLIGHT_3": "年付成本更低",
+          "AI_PLANS_INTRO": "基础版每月 100GB、3 台设备；旗舰版每月 300GB、5 台设备；团队版每月 1000GB、20 台设备。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据日常在线设备数量与月流量需求，在基础版、旗舰版、团队版之间选定一档。",
+          "AI_STEP_TEXT_2": "对照套餐支持的设备数量，在手机、电脑或平板上准备好对应的客户端。",
+          "AI_STEP_TEXT_3": "依照所选客户端的配置文档导入订阅链接，完成节点更新后即可连接使用。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "飞鸟套餐一览",
+          "AI_FAQ_ANSWER_1": "飞鸟套餐分基础版、旗舰版与团队版。基础版适合轻量个人使用，每月 15 元含 100GB 流量与 3 台设备；旗舰版每月 35 元含 300GB 流量、5 台设备与 IPLC 专线；团队版每月 85 元含 1000GB 流量与 20 台设备。",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备同时在线，旗舰版 5 台，团队版 20 台。设备数量按同时在线计算，切换设备前先在原设备上退出登录即可。",
+          "AI_FAQ_ANSWER_3": "按年付比按月付更划算。基础版按年付仅需 150 元，旗舰版按年付仅需 350 元，团队版按年付仅需 850 元，相当于节省约两个月的费用。",
+          "AI_FAQ_ANSWER_4": "依客户端文档在对应应用中添加订阅地址即可。桌面端与移动端步骤略有差异，请按设备类型查看对应说明，导入后刷新节点列表就能使用。",
+          "AI_FAQ_ANSWER_5": "旗舰版与团队版包含流媒体解锁与高带宽节点，团队版还有 VIP 专属节点和企业定制路由，适合对速度和稳定性要求更高的场景。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "飞鸟有哪些套餐可选？",
+          "AI_FAQ_QUESTION_2": "一个账号能同时在几台设备上使用？",
+          "AI_FAQ_QUESTION_3": "按年付和按月付有什么区别？",
+          "AI_FAQ_QUESTION_4": "怎么在客户端里导入订阅？",
+          "AI_FAQ_QUESTION_5": "哪个套餐更适合看流媒体或玩游戏？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "doriyanetworkjc.com",
+    "host": "doriyanetworkjc.com"
+  },
+  "file_hashes": {
+    "index.html": "bd521b7b331e84f801e31aefd0ece1a606a36dd49cab56f61e40ea1bf2f78de0",
+    "sitemap.xml": "8b1a5fc48464c972cb47ae7ce43770ae206e04588583dc041835d84b70e8f130",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "b4390a1f4a7fd569712ca62fa4167da76dfbb1e6b6e0eea7bae3850c7e2f6ee5",
+    "robots.txt": "7b1cb86734646c2169fd60ded743116ea7e9f70dec0a3dad6b98623d2a606491",
+    "d3080f2061ef7cea3711507088668ae0.txt": "063dbb5b756e786df52d98e4a8bbe49f13732ca56509b939331806aa3a41daf1"
+  },
+  "revision": "f99e2f4e3a36f89f42a3ed4c3ede2d215e3e738f8c35fb3b4cecc0f539aa78e1"
+}
